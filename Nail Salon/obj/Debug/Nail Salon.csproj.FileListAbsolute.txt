@@ -1,0 +1,11 @@
+C:\Users\Amina\source\repos\Nail Salon\Nail Salon\bin\Debug\Nail Salon.exe.config
+C:\Users\Amina\source\repos\Nail Salon\Nail Salon\bin\Debug\Nail Salon.exe
+C:\Users\Amina\source\repos\Nail Salon\Nail Salon\bin\Debug\Nail Salon.pdb
+C:\Users\Amina\source\repos\Nail Salon\Nail Salon\obj\Debug\Nail Salon.csprojAssemblyReference.cache
+C:\Users\Amina\source\repos\Nail Salon\Nail Salon\obj\Debug\Nail_Salon.Properties.Resources.resources
+C:\Users\Amina\source\repos\Nail Salon\Nail Salon\obj\Debug\Nail Salon.csproj.GenerateResource.cache
+C:\Users\Amina\source\repos\Nail Salon\Nail Salon\obj\Debug\Nail Salon.csproj.CoreCompileInputs.cache
+C:\Users\Amina\source\repos\Nail Salon\Nail Salon\obj\Debug\Nail Salon.exe
+C:\Users\Amina\source\repos\Nail Salon\Nail Salon\obj\Debug\Nail Salon.pdb
+C:\Users\Amina\source\repos\Nail Salon\Nail Salon\obj\Debug\Nail_Salon.Form1.resources
+C:\Users\Amina\source\repos\Nail Salon\Nail Salon\obj\Debug\Nail_Salon.salon.resources
